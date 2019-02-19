@@ -1,27 +1,23 @@
 [
   {
-        "type": "1",
-        "title": "Ubuntu 16.04",		
-        "description": "DCServices Ubuntu 16.04 image.",
-        "categories": ["Plane OS"],
-        "platform": "ubuntu_16.04",
-        "image": "bigdatalabs/ubuntu:16.04",
-        "logo":"https://i.imgur.com/GfBFWuP.png",
-		"ports": [
-            "22/tcp"
-        ]
+    "type": "1",
+    "title": "Ubuntu 16.04",		
+    "description": "DCServices Ubuntu 16.04 image.",
+    "categories": ["Plane OS"],
+    "platform": "ubuntu_16.04",
+    "image": "bigdatalabs/ubuntu:16.04",
+    "logo":"https://i.imgur.com/GfBFWuP.png",
+    "ports": ["22/tcp"]
     },
   {
-        "type": "1",
-        "title": "Ubuntu 14.04",		
-        "description": "DCServices Ubuntu 16.04 image.",
-        "categories": ["Plane OS"],
-        "platform": "ubuntu_14.04",
-        "image": "bigdatalabs/ubuntu:14.04",
-        "logo":"https://i.imgur.com/GfBFWuP.png",
-		"ports": [
-            "22/tcp"
-        ]
+    "type": "1",
+    "title": "Ubuntu 14.04",		
+    "description": "DCServices Ubuntu 16.04 image.",
+    "categories": ["Plane OS"],
+    "platform": "ubuntu_14.04",
+    "image": "bigdatalabs/ubuntu:14.04",
+    "logo":"https://i.imgur.com/GfBFWuP.png",
+    "ports": ["22/tcp"]
     },
   {
     "type": 1,
