@@ -1,6 +1,6 @@
 [
   {
-    "type": "1",
+    "type": 1,
     "title": "Ubuntu 16.04",		
     "description": "DCServices Ubuntu 16.04 image.",
     "categories": ["Plane OS"],
@@ -10,7 +10,7 @@
     "ports": ["22/tcp"]
     },
   {
-    "type": "1",
+    "type": 1,
     "title": "Ubuntu 14.04",		
     "description": "DCServices Ubuntu 16.04 image.",
     "categories": ["Plane OS"],
