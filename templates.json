@@ -1,6 +1,18 @@
 [
   {
     "type": 1,
+    "title": "One-Click Machine Learning",
+    "description": "All necessary packages to get you started with ML",
+    "categories": "Machine Leaniing",
+    "platform": "linux",
+    "image": "bigdatalabs/machine_learning",
+    "logo":"https://i.imgur.com/yWvdpMT.png",
+    "ports": [
+        "3838/tcp","22/tcp","8888/tcp","6006/tcp"
+      ]
+   },  
+  {
+    "type": 1,
     "title": "Ubuntu 16.04",		
     "description": "DCServices Ubuntu 16.04 image.",
     "categories": ["Plane OS"],
