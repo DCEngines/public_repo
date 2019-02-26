@@ -3,7 +3,7 @@
     "type": 1,
     "title": "One-Click Machine Learning",
     "description": "All necessary packages to get you started with ML",
-    "categories": "Machine Leaniing",
+    "categories": ["Machine Leaniing"],
     "platform": "linux",
     "image": "bigdatalabs/machine_learning",
     "logo":"https://i.imgur.com/yWvdpMT.png",
